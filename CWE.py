@@ -63,7 +63,7 @@ class UniversalFileManager(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title("CWA File Manager")
+        self.title("CWE File Manager")
         self.geometry("1100x700")
         self.minsize(800, 500)
         
