@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Lixiod Technologies
+
 import os
 import sys
 import datetime
